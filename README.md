@@ -1,9 +1,12 @@
 # OCR1
 ## OpenClassRooms project 1: Analysez des données de systèmes éducatifs
+
+### Données
+
+Les données de la Banque mondiale sont disponibles à l’adresse suivante : https://datacatalog.worldbank.org/dataset/education-statistics.
+
 ### Mission
-   
-   Les données de la Banque mondiale sont disponibles à l’adresse suivante : https://datacatalog.worldbank.org/dataset/education-statistics.
-   
+
    a. Valider la qualité de ce jeu de données (comporte-t-il beaucoup de données manquantes, dupliquées ?)
    
    b. Décrire les informations contenues dans le jeu de données (nombre de colonnes ? nombre de lignes ?)
@@ -22,7 +25,7 @@
   
   d. Maîtriser les opérations fondamentales du langage Python pour la Data Science
 
-  c. Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
+  e. Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
 
 ### Livrables 
 
