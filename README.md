@@ -23,3 +23,10 @@
   d. Maîtriser les opérations fondamentales du langage Python pour la Data Science
 
   c. Utiliser un notebook Jupyter pour faciliter la rédaction du code et la collaboration
+
+### Livrables 
+
+   a. Un notebook comportant les analyses pré-exploratoires réalisées (non cleané, pour comprendre votre démarche).
+   
+   b. Un support de présentation pour la soutenance.
+
